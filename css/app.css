@@ -117,7 +117,7 @@ img {
 }
 
 .hero {
-  background-image: url(/img/hero.jpg);
+  background-image: url(img/hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -186,7 +186,7 @@ img {
         #037bc0 50%,
         #037bc0 100%
       ),
-      url(/img/NosotrosAH.jpg);
+      url(img/NosotrosAH.jpg);
     background-position: right center;
     padding: 10rem 0;
     background-size: 100%, 160rem;
